@@ -15,3 +15,9 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'Biologia',
+    'Qual a molécula da vida?',
+    'A molécula da vida é o DNA.'
+)
