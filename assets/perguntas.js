@@ -1,18 +1,17 @@
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação'
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Robótica',
-    'O que é um Robô?',
-    'Um artefato que executa uma tarefa programada'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual a molécula da vida?',
-    'A molécula da vida é o DNA'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
-
