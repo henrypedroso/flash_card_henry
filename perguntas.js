@@ -27,3 +27,9 @@ criaCartao(
     'Qual a molécula da vida?',
     'A molécula da vida é o DNA.'
 )
+
+criaCartao(
+    'Biologia',
+    'Qual a molécula da vida?',
+    'A molécula da vida é o DNA.'
+)
